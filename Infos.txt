@@ -1,0 +1,17 @@
+**************************************
+*********** Jeux de Briques **********
+******** Travail réealisé par: *******
+**				    **
+** BOUZIANI Kheir Eddine            **
+**				    **
+**************************************
+**************************************
+
+**********************************************************************
+*** Constitué de 4 classes : *****************************************
+** GameFrame.java : gestion de la fenetre principale et elementaire **
+** GamePanel.java : gestion et control de jeux                      **
+** GameGridGenerator.java : generateur de la grille de briques      **
+** GameMain.java : lancement de jeux                                **
+**********************************************************************
+**********************************************************************
